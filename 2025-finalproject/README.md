@@ -1,2 +1,3 @@
 # first-repo
-This is a first repo make by lmx
+This is a first-repo make by lmx
+
